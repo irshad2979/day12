@@ -1,0 +1,7 @@
+The maximum of the three numbers is: 80
+465661
+Not a Palindrome Number
+9467
+false
+true
+92727 is an Armstrong number
